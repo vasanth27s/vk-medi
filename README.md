@@ -1,8 +1,12 @@
 
+![Alt Text](C:/Projects/docter/frontend/src/images/image1.png)
+![Alt Text](C:/Projects/docter/frontend/src/images/image2.png)
+![Alt Text](C:/Projects/docter/frontend/src/images/image3.png)
+
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/vasanth27s/vk-mediapp.git
    ```
 2. Install dependencies:
    ```sh

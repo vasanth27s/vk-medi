@@ -1,7 +1,5 @@
 
-![Screenshot 1](src/images/image1.png)
-![Screenshot 2](src/images/image2.png)
-![Screenshot 3](src/images/image3.png)
+
 
 
 1. Clone the repository:

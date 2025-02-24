@@ -6,7 +6,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vasanth27s/vk-mediapp.git
+   git clone https://github.com/vasanth27s/vk-medi.git
    ```
 2. Install dependencies:
    ```sh

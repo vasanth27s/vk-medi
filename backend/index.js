@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Welcome to BabySteps API");
+  res.send("Welcome to VK MEDI API");
 });
 
 app.use("/api/doctors", doctorRoutes);
